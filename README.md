@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [react-native-maps](modules/maps)
 - [react-native-user-profile](modules/user-profile)
+- [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 
 # Getting started: Frontend
 
