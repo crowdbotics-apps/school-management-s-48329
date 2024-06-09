@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2fba41fbf707c5fb0a4238fe27b8eb51f7d454e8998eb65532538d89cf302665"
+            "sha256": "b08c95ec6307f2eda734de84522b43d2aaedde591f553f07bf0f127ea3cf42ac"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -87,6 +87,10 @@
         "cb-django-ocr": {
             "editable": true,
             "path": "./modules/django_ocr"
+        },
+        "cb-privacy-policy": {
+            "editable": true,
+            "path": "./modules/privacy_policy"
         },
         "certifi": {
             "hashes": [
