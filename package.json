@@ -18,6 +18,7 @@
     "@modules/appointment-local": "file:./modules/appointment-local/",
     "@modules/login": "file:./modules/login/",
     "@modules/maps": "file:./modules/maps/",
+    "@modules/user-profile": "file:./modules/user-profile/",
     "@react-native-async-storage/async-storage": "1.17.9",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",
